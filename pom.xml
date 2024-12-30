@@ -23,7 +23,7 @@
 				<version>3.0.0-M5</version> <!-- Use a compatible version -->
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/saucedemo.xml</suiteXmlFile> <!--
+						<suiteXmlFile>saucedemo.xml</suiteXmlFile> <!--
 						Path to your TestNG XML -->
 					</suiteXmlFiles>
 				</configuration>
